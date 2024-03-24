@@ -15,6 +15,7 @@ int main() {
 
     printf("Value pointed by myCharsArray: %c\n", *myCharsArray);
     printf("Value pointed by myCharsPointer: %c\n", *myCharsPointer);
+    // testing push 
 
     return 0;
 }
